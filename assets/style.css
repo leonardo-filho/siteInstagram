@@ -1,0 +1,44 @@
+.instagram-container{
+    border: 1px solid #DBDBDB;
+	width: 400px;
+	height: 500px;
+	margin: 0 auto;
+	padding: 0 auto;
+	margin-top: 150px;
+    margin-right: 80px;
+	background: #FFFFFF;
+	display: inline-block;
+ 	float: right;
+}
+
+.instagram-logo{
+    background: url(logoinstagram.png) no-repeat top;
+    margin-top: 40px;
+    height: 55px;
+}
+
+.instagram-celular{
+	width: 270px;	
+	margin-top: 120px;
+	float: left;
+	margin-left:150px;;
+}
+
+p input{
+	height: 45px;
+	width: 300px;
+	padding-left: 10px;
+   	background:#FAFAFA ;
+   	border: 1px solid #DBDBDB;
+	margin-left: 70px;
+	margin-top: 30px;
+}
+
+.instagram-download{
+	margin-top: 80px;
+	margin-left: 70px;
+	width:60px;
+}
+
+
+
